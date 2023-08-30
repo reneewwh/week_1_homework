@@ -4,7 +4,7 @@
 
 ![Picture](./images/stripe_logo.png)
 
-Stripe, was found by Patrick Collison and John Collison in San Francisco California, US. 
+In 2010, Stripe was found by Patrick Collison and John Collison in San Francisco California, US. 
 
 ## From Thought to Reality: Unveiling the Genesis of an Idea
 Patrick Collison and John Collison, the co-founders of Stripe, are brothers and had a close relationship growing up. They both attended the same school in Ireland and shared an interest in technology and entrepreneurship from a young age. 
@@ -19,13 +19,13 @@ In 2010, both siblings left college and started Stripe which was initially named
 
 Stripe has raised a total of **$8.7B** in funding over 20 rounds. Their latest funding was raised on Apr 25, 2023 from a Grant round. Stripe is funded by 56 investors. 
 
-## Business Activities:
-### WHAT
+## Business Activities
+#### WHAT
 Stripe essentially serves as a **cloud-centric payment processing solution**, empowering enterprises to receive payments and oversee online transactions, accompanied by supplementary services.
 
 These associate with setting up, managing, and optimizing online payment systems, making it easier for businesses to focus on their core products and services while leaving the complexities of payment processing to a reliable and user-friendly platform.
 
-### WHO
+#### WHO
 
 Stripe functions as a payment service provider utilized by countless businesses spanning a wide spectrum, ranging from startups to major corporations around the world. 
 
@@ -42,7 +42,7 @@ Sony: A Japanese manufacturing corporation featuring 109,700 employees and reven
 * T-Mobile USA: A US-based communications company maintaining a workforce of 75,000 and generating revenues of $79.57 billion, among several others.
 
 
-### WHY 
+#### WHY 
 **>Services & Pricing**<br /> 
 Stripe placed a strong emphasis on catering to developers, offering **well-documented** APIs, **extensive** documentation, and **developer-friendly** tools. Unlike other competitors, Stripe doesn't charge for the initial setup and offers very **competitive pricing** for processing payments.
 
